@@ -46,14 +46,4 @@ Aplikasi ini juga sudah mendukung **PWA (Progressive Web App)**, sehingga bisa d
 * **PDF Generator:** DomPDF
 * **PWA:** Service Worker & Web Manifest
 
----
 
-## 🚀 Panduan Instalasi (Cara Menjalankan)
-
-Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal Anda:
-
-### 1. Clone Repository
-Download source code ke komputer Anda:
-```bash
-git clone [https://github.com/USERNAME_ANDA/smartgeo-hris.git](https://github.com/USERNAME_ANDA/smartgeo-hris.git)
-cd smartgeo-hris
